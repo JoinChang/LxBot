@@ -5,8 +5,11 @@
 软糖酱：2862355742
 
 ### 主号暂停使用
+
 ![](https://i.loli.net/2020/02/10/xiy6lJMrzAoEDnR.png)
+
 ![](https://i.loli.net/2020/02/10/mltcVfPK4Y3jrnU.png)
+
 ![](https://i.loli.net/2020/02/10/tQw1C3N2FRxoDLm.png)
 
 软糖酱测试机（七天冻结）：3041853563
