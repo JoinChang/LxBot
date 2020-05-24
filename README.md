@@ -321,3 +321,9 @@ Base64 编解码、MD5 计算、简繁转换、文本转语音
 Phigros 查询适配了 1.4.3 版本的数据。
 
 修复了编译指令编译失败的问题。
+
+修改了 osu!droid 查询指令前缀：/osu -> /osud 或 /od
+
+修改了 osu! 查询指令前缀：/osu pc -> /osu
+
+修改了 osu!droid 查询权限项名称：osu -> osud
