@@ -1,3 +1,13 @@
+<div align="center">
+  <img width="160" src="favicon.png" alt="logo">
+
+### 软糖酱 QQ 机器人
+
+一款基于酷 Q 的完全公益性质的功能型 QQ 机器人，拥有代码编译、图站查询、图片处理等功能。
+
+----
+</div>
+
 # 简介
 在本 repo 中您可以提交 issue 反馈有关软糖的建议或者漏洞。
 
