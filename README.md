@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="160" src="favicon-large.png" alt="logo">
+  <img width="256" src="favicon-large.png" alt="logo">
 
 ### 软糖酱 QQ 机器人
 
