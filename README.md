@@ -14,5 +14,4 @@
 ## 白名单申请兼反馈群
 1151290186
 
-# 更新日志
-更新日志请阅览 release 页。
+## [更新日志](https://github.com/JoinChang/LxBot-QQ/releases)
