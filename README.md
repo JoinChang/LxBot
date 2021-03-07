@@ -1,9 +1,9 @@
 <div align="center">
   <img width="256" src="favicon-large.png" alt="logo">
 
-### 软糖酱 QQ 机器人
+### 软糖酱机器人
 
-一款基于 mirai 的完全公益性质的功能型 QQ 机器人，拥有音游查询、图站查询、图片处理等功能。
+一款支持 QQ、Discord 的完全公益性质的功能型机器人，拥有音游查询、图站查询、图片处理等功能。
 
 ----
 </div>
